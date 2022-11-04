@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-alarm/static/css/main.4df6d75d.chunk.css",
+    "main.js": "/react-alarm/static/js/main.3a548df6.chunk.js",
+    "main.js.map": "/react-alarm/static/js/main.3a548df6.chunk.js.map",
+    "runtime-main.js": "/react-alarm/static/js/runtime-main.0ff38db1.js",
+    "runtime-main.js.map": "/react-alarm/static/js/runtime-main.0ff38db1.js.map",
+    "static/js/2.d71614e6.chunk.js": "/react-alarm/static/js/2.d71614e6.chunk.js",
+    "static/js/2.d71614e6.chunk.js.map": "/react-alarm/static/js/2.d71614e6.chunk.js.map",
+    "index.html": "/react-alarm/index.html",
+    "static/css/main.4df6d75d.chunk.css.map": "/react-alarm/static/css/main.4df6d75d.chunk.css.map",
+    "static/js/2.d71614e6.chunk.js.LICENSE.txt": "/react-alarm/static/js/2.d71614e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff38db1.js",
+    "static/js/2.d71614e6.chunk.js",
+    "static/css/main.4df6d75d.chunk.css",
+    "static/js/main.3a548df6.chunk.js"
+  ]
+}
